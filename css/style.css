@@ -1,0 +1,23 @@
+body {
+    font: 20px;
+    font-family: Fira Code, sans-serif;
+    background-image: url(../img/pexels-artem-podrez-7233117.jpg);
+}
+
+.quem-somos {
+    /*background-color: rgb(243, 91, 91);*/
+    color: whitesmoke;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: rgb(246, 232, 184);
+}
+
+.bg-footer {
+    background-color: white;
+}
